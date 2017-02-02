@@ -3,21 +3,7 @@
   "title" : "NationCraft",
   "gameVersion" : "1.7.10",
   "features" : [
-   
-    {
-      "properties" : {
-        "name" : "Inventory Tweaks",
-        "description" : "Easy management of your inventory.",
-        "recommendation" : "starred",
-        "selected" : true
-      },
-      "files" : {
-        "include" : [
-          "mods/*inventorytweaks*"
-        ],
-        "exclude" : [ ]
-      }
-    },
+
     {
       "properties" : {
         "name" : "TC Node Tracker",
