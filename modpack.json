@@ -3,20 +3,7 @@
   "title" : "NationCraft",
   "gameVersion" : "1.7.10",
   "features" : [
-    {
-      "properties" : {
-        "name" : "JourneyMap",
-        "description" : "Real-time mapping in-game or in your web browser as you explore.",
-        "recommendation" : null,
-        "selected" : false
-      },
-      "files" : {
-        "include" : [
-          "mods/*journeymap*"
-        ],
-        "exclude" : [ ]
-      }
-    },
+   
     {
       "properties" : {
         "name" : "Inventory Tweaks",
